@@ -1,4 +1,4 @@
-package ar.org.casa.java.adv.javaadv.hilos;
+package ar.org.casa.java.ejercicio.reloj.musica;
 
 public class Panel extends javax.swing.JFrame {
     private CronometroRunnable cr ;
